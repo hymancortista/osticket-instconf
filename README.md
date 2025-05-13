@@ -9,6 +9,7 @@ This tutorial outlines the installation and configuration of the open-source hel
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
