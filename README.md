@@ -27,7 +27,6 @@ On the Image and Size tab, choose an efficient OS for your business needs
 </p>
 <br />
 
-<p>
 ![image](https://github.com/user-attachments/assets/7f95a175-3a38-469f-8b97-2c61d4068847)
 </p>
 <p>
