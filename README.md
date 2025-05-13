@@ -18,6 +18,8 @@ This tutorial outlines the installation and configuration of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<[image](https://github.com/user-attachments/assets/2fe8a0d7-190a-4cf2-aff5-3de1204e080f)>
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
