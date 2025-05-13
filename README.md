@@ -17,11 +17,8 @@ This tutorial outlines the installation and configuration of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<[image](https://github.com/user-attachments/assets/2fe8a0d7-190a-4cf2-aff5-3de1204e080f)>
+![image](https://github.com/user-attachments/assets/027be1e3-1949-4983-bd1b-703f225a7953)
 
-<img src="https://github.com/user-attachments/assets/9d3313a6-208b-4ba1-ba4e-3221021fe41a)
-" height="80%" width="80%"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
