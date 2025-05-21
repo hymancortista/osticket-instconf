@@ -48,16 +48,17 @@ To enable CGI, on the same IIS folder, expand to World Wide Web Services > Appli
 
 ![image](https://github.com/user-attachments/assets/f9060745-4dac-4573-a685-4bebc7e372ba)
 
-With the following files, do the following
--Install PHP Manager for IIS<br />
--Install Rewrite Module<br />
--Create a directory C:\PHP and unzp the PHP 7.3.8 to that folder<br />
--Install VC Redist<br />
--Install MySQL 5.5.62<br />
+With the following files, do the following<br />
+- Install PHP Manager for IIS<br />
+- Install Rewrite Module<br />
+- Create a directory C:\PHP and unzip the PHP 7.3.8 to that folder<br />
+- Install VC Redist<br />
+- Install MySQL 5.5.62<br />
 
+Do the following
+- Open IIS as Admin
+- Register PHP from within IIS using 'php-cgi' from the PHP folder
+- Install osTicket v1.15.8
+- Reload IIS (Stop and Start the server)
+- 
 
-
-</p>
-<p>
-</p>
-<br />
