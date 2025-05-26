@@ -81,6 +81,18 @@ On the right, click “Browse *:80” -> Continue <br/>
 Fill out your information <br/>
 ![image](https://github.com/user-attachments/assets/3a556260-b14e-4e02-b33f-5aefd814e6a2)
 
+From the “osTicket-Installation-Files” folder, install HeidiSQL.
+- Open Heidi SQL
+- Create a new session, root/root
+- Connect to the session
+- Create a database called “osTicket”
+
+Continue Setting up osTicket in the browser
+- MySQL Database: osTicket
+- MySQL Username: root
+- MySQL Password: root
+- Click “Install Now!”
+
 
 
 
