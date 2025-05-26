@@ -99,7 +99,7 @@ Continue Setting up osTicket in the browser
 - MySQL Password: root
 - Click “Install Now!”
 
-
+It is now installed, now we can proceed to next step which is to Configure osTicket
 
 
 
