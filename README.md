@@ -59,6 +59,29 @@ Do the following
 - Open IIS as Admin
 - Register PHP from within IIS using 'php-cgi' from the PHP folder
 - Install osTicket v1.15.8
+- Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 - Reload IIS (Stop and Start the server)
-- 
+
+Go back to IIS, sites > Default > osTicket
+- Double click PHP Manager
+- Enable php_imap.dll
+- Enable php_intl.dll
+- Enable php_opcache.dll
+
+From C:\inetpub\wwwroot\osTicket\include
+- Rename ost-sampleconfig.php to ost-config.php
+- Right click on ost-config.php then click Properties
+- Disable Inheritance
+- Click Add > Everyone > Full Control
+- Click Apply > OK
+
+Within IIS, Go to sites -> Default -> osTicket
+On the right, click “Browse *:80” -> Continue <br/>
+
+Fill out your information <br/>
+![image](https://github.com/user-attachments/assets/3a556260-b14e-4e02-b33f-5aefd814e6a2)
+
+
+
+
 
