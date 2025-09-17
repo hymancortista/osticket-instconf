@@ -85,13 +85,19 @@ Go back to IIS, sites > Default > osTicket
 - Enable php_imap.dll
 - Enable php_intl.dll
 - Enable php_opcache.dll
+<img width="712" height="460" alt="image" src="https://github.com/user-attachments/assets/2c1a08b0-297c-4f4e-a873-0dff84a756f3" />
+
 
 From C:\inetpub\wwwroot\osTicket\include
 - Rename ost-sampleconfig.php to ost-config.php
 - Right click on ost-config.php then click Properties
 - Disable Inheritance
+<img width="758" height="512" alt="image" src="https://github.com/user-attachments/assets/0a9f484a-fb46-4968-8204-afe663502192" />
+
 - Click Add > Everyone > Full Control
 - Click Apply > OK
+<img width="902" height="586" alt="image" src="https://github.com/user-attachments/assets/6e8798a1-4091-49e7-8e06-93e54242f038" />
+
 
 Within IIS, Go to sites -> Default -> osTicket
 On the right, click “Browse *:80” -> Continue <br/>
@@ -116,6 +122,8 @@ Continue Setting up osTicket in the browser
 - MySQL Username: root
 - MySQL Password: root
 - Click “Install Now!”
+
+<img width="833" height="653" alt="image" src="https://github.com/user-attachments/assets/10a5a14a-606b-4958-8720-5cb89602ef5e" />
 
 It is now installed, now we can proceed to next step which is to Configure osTicket
 
