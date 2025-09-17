@@ -49,18 +49,35 @@ To enable CGI, on the same IIS folder, expand to World Wide Web Services > Appli
 
 ![image](https://github.com/user-attachments/assets/f9060745-4dac-4573-a685-4bebc7e372ba)
 
-With the following files, do the following<br />
+Using this link, download and extract these files necessary for our setup<br />
 - Install PHP Manager for IIS<br />
+<img width="492" height="401" alt="image" src="https://github.com/user-attachments/assets/318b169f-555a-4a18-8b37-df8e919c76dd" />
+
 - Install Rewrite Module<br />
+<img width="486" height="375" alt="image" src="https://github.com/user-attachments/assets/a6510a3f-b464-4f56-8507-3adcc8c52b76" />
+
 - Create a directory C:\PHP and unzip the PHP 7.3.8 to that folder<br />
+<img width="1113" height="628" alt="image" src="https://github.com/user-attachments/assets/379253c8-01d9-4212-bc30-1d6865b453b4" />
+
 - Install VC Redist<br />
+<img width="470" height="286" alt="image" src="https://github.com/user-attachments/assets/324b89d2-4ff1-4c6b-b0fa-08c00008a4bc" />
+
 - Install MySQL 5.5.62<br />
+<img width="486" height="376" alt="image" src="https://github.com/user-attachments/assets/32057622-3ea4-46e1-b487-ffeaa44c4f18" />
+
 
 Do the following
 - Open IIS as Admin
+<img width="775" height="611" alt="image" src="https://github.com/user-attachments/assets/ef42ca00-f9d9-4b3d-8365-53a12215d8ff" />
+
 - Register PHP from within IIS using 'php-cgi' from the PHP folder
-- Install osTicket v1.15.8
+<img width="746" height="607" alt="image" src="https://github.com/user-attachments/assets/a1620569-49f3-40ed-9c99-79b073d4c246" />
+
+
+- Extract the osTicket folder and transfer "upload" to “c:\inetpub\wwwroot”
 - Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+<img width="881" height="392" alt="image" src="https://github.com/user-attachments/assets/cce9d401-bb78-4a37-8cd7-422de1240400" />
+
 - Reload IIS (Stop and Start the server)
 
 Go back to IIS, sites > Default > osTicket
